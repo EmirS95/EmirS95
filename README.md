@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Emir Sehic!
+
+I'm learning to code...
 
 <!--
 **EmirS95/EmirS95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
